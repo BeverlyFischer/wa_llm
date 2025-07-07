@@ -5,3 +5,4 @@ description = "A WhatsApp bot that can participate in group conversations, power
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
